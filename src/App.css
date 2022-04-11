@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+
+}
+main{
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+
+.items{
+  border: 1px solid black;
+  width: 200px;
+  display: flex;
+  gap: 10px;
+  padding: 20px;
+  justify-content: center;
+
+}
+.total{
+  padding: 40px;
+  margin-top: 20px;
+  font-size: 30px;
+}
